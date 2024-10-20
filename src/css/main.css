@@ -182,7 +182,6 @@ nav ul li {
 .halfchild select, .halfchild option, .halfchild input {
     color: #333;
 }
-
 .testimonial {
     margin-top: 100px;
 }
@@ -373,7 +372,7 @@ select, input {
     min-height: calc(100vh - 120px);
 }
 
-.formPage .btn{
+.formPage .btn{ 
     display: block;
     margin: 20px 0;
     text-align: center;
